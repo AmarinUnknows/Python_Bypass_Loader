@@ -2,7 +2,7 @@
   "service_active": true,
   "message": "ระบบให้บริการปกติ - Amarin Loader + BypassVGC",
   "version": "1.0.0",
-  "last_updated": "2024-01-01",
+  "last_updated": "2025-01-01",
   "maintenance_mode": false,
   "maintenance_message": "ระบบกำลังบำรุงรักษา กรุณารอสักครู่",
   "update_available": false,
