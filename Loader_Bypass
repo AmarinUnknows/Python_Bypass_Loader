@@ -1,0 +1,21 @@
+{
+  "service_active": true,
+  "message": "ระบบให้บริการปกติ - Amarin Loader + BypassVGC",
+  "version": "1.0.0",
+  "last_updated": "2024-01-01",
+  "maintenance_mode": false,
+  "maintenance_message": "ระบบกำลังบำรุงรักษา กรุณารอสักครู่",
+  "update_available": false,
+  "update_message": "มีเวอร์ชันใหม่ให้อัปเดต",
+  "features": {
+    "vgc_bypass": true,
+    "valorant_launch": true,
+    "overlay_system": true,
+    "web_interface": true
+  },
+  "settings": {
+    "auto_check_interval": 300,
+    "timeout_seconds": 10,
+    "retry_attempts": 3
+  }
+}
